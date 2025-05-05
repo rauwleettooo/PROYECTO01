@@ -810,7 +810,7 @@ while True:
                               print("\n ¡Gracias por jugar, buscavidas!")
                               input()
                               break
-                        
+                   #Este comentario lo he hecho yo     
                         
               
                 if eleccion_bvdidas2 == "b":
